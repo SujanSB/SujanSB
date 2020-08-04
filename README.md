@@ -1,5 +1,3 @@
-Here are some ideas to get you started:
-
 ### Hi there, I'm InvalidSB- aka [Sujan Sharma] 👋
 
 ## I'm a Computer science engineering student
