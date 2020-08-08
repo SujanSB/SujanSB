@@ -17,7 +17,10 @@
 <br />
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=InvalidSB&show_icons=true&hide_border=true" />
+![Sujan's github stats](https://github-readme-stats.vercel.app/api?username=InvalidSB&show_icons=true&theme=merko)
+
+
+<br/>
 
 [website]: https://invalidsb.me
 [twitter]: https://twitter.com/SujanJa
