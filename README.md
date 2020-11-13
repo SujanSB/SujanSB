@@ -25,7 +25,7 @@
 
 
 <br/>
-
+#Your mindset is your everything !!!
 [website]: https://invalidsb.me
 [twitter]: https://twitter.com/SujanJa
 [youtube]: https://www.youtube.com/channel/UCum03XSvfDV5l1geGgDjycA?view_as=subscriber
