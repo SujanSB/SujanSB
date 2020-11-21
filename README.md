@@ -19,9 +19,10 @@
 [<img align="left" alt="invalid_sb | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
----
 
  ### Your mindset is your everything !!!
+ 
+<br />
 
 
 ---
