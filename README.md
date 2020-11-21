@@ -19,14 +19,16 @@
 [<img align="left" alt="invalid_sb | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+---
+
+ ### Your mindset is your everything !!!
+
 
 ---
 ![Sujan's github stats](https://github-readme-stats.vercel.app/api?username=InvalidSB&show_icons=true&theme=merko)
 
 
-<br/>
----
- ## Your mindset is your everything !!!
+<br />
 
 <br/>
 
