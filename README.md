@@ -26,8 +26,6 @@
 ---
 
  ### Your mindset is your everything !!!
- 
-<br />
 
 
 ---
