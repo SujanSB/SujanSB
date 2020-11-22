@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=red" /> | <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=cyan" /> | <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=black" /> | <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" /> 
 <br/>
 
+---
+
 ### Get Connected with me:
 
 [<img align="left" alt="invalidsb.me" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
