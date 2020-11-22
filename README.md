@@ -34,7 +34,7 @@
 <br/>
 
 [website]: https://invalidsb.me
-[twitter]: https://twitter.com/SujanJa
+[twitter]: https://twitter.com/sujanja
 [youtube]: https://www.youtube.com/channel/UCum03XSvfDV5l1geGgDjycA?view_as=subscriber
 [instagram]: https://www.instagram.com/invalid_sb
 [linkedin]: https://www.linkedin.com/in/sujan-sharma-1696641b1/
