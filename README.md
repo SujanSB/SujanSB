@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on a my own startup(secret) ...🤫
 - 🌱 I’m currently learning everything ..🤣
 - 🥅 2020 Goals: learn everything as much as possible...
-<br/>
-- 📫 Find Me in LinkedIn: https://www.linkedin.com/in/sujan-bhattarai-9aab5617b/
 - ⚡ fact: I love to write poems / Do help others in coding / play online games...
 ---
 
