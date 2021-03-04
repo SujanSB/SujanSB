@@ -5,13 +5,13 @@
 - 🌱 I’m currently learning everything ...🤣
 - 🥅 2020 Goals: learn everything as much as possible...
 - ⚡ fact: I love to write poems / Do help others in coding / play online games...
----
+-----
 
 ## 🚀 Skills
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=red" /> || <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=indigo" /> || <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=black" /> || <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" /> 
 <br/>
 
-----
+------
 
 ### Connect with me:-
 
