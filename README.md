@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: learn everything as much as possible....
 - ⚡ fact: I love to write poems / Do help others in coding / play online games...
 
-" Keep Your Dream bigger than your Thoughts..."
+" Keep Your Dream Higher than your Thoughts..."
 
 
 -----
