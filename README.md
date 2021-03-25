@@ -5,6 +5,10 @@
 - 🌱 I’m currently learning everything ....🤣
 - 🥅 2021 Goals: learn everything as much as possible....
 - ⚡ fact: I love to write poems / Do help others in coding / play online games...
+
+" Keep Your Dream bigger than your Thoughts..."
+
+
 -----
 
 ## 🚀 Skills
