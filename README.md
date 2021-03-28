@@ -6,8 +6,9 @@
 - 🥅 2021 Goals: learn everything as much as possible....
 - ⚡ fact: I love to write poems / Do help others in coding / play online games...
 
-" Keep Your Dream Higher than your Thoughts..."
+-----
 
+### " Keep Your Dream Higher than your Thoughts......"
 
 -----
 
@@ -30,7 +31,6 @@
 -----
 
  ### Your mindset is your everything !!!!!!
-
 
 ----
 ![Sujan's github stats](https://github-readme-stats.vercel.app/api?username=InvalidSB&show_icons=true&theme=merko)
