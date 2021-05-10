@@ -36,8 +36,6 @@
 ![Sujan's github stats](https://github-readme-stats.vercel.app/api?username=InvalidSB&show_icons=true&theme=merko)
 
 
-<br />
-
 <br/>
 
 [website]: https://invalidsb.me
