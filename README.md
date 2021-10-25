@@ -42,7 +42,7 @@
 
 <br/>
 
-[website]: https://invalidsb.me
+[website]: https://suzansharma.com.np
 [twitter]: https://twitter.com/sujanja
 [youtube]: https://www.youtube.com/channel/UCum03XSvfDV5l1geGgDjycA?view_as=subscriber
 [instagram]: https://www.instagram.com/invalid_sb
