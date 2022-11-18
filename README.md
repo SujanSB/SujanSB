@@ -3,7 +3,7 @@
 
 ### Hi there, I'm InvalidSB- aka [Sujan Sharma] 👋
 
-## I'm a Computer science engineering student |
+## I'm a Computer Engineer |
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: learn everything as much as possible.
 - ⚡ fact: I love to write poems / Do help others in coding / play online games.
