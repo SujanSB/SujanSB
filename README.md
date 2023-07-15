@@ -3,9 +3,9 @@
 
 ### Hi there, I'm InvalidSB- aka [Sujan Sharma] 👋
 
-## I'm a Computer Engineer |
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: learn everything as much as possible.
+## I'm a Computer Engineer.
+- 🌱 I’m currently switching my career.
+- 🥅 2023 Goals: learn many things as much as possible.
 - ⚡ fact: I love to write poems / Do help others in coding / play online games.
 
 
@@ -49,5 +49,5 @@
 [linkedin]: https://www.linkedin.com/in/sujan-sharma-1696641b1/
 
 ----
-## Visitors Count in my profile since 2023-1-25 :
+## Visitors Count -since 2023-1-25 :
  ![Visitor Count](https://profile-counter.glitch.me/{InvalidSB}/count.svg)
