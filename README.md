@@ -1,7 +1,7 @@
 ![Header_Image](header.png)
 
 
-### Hi there, I'm InvalidSB- aka [Sujan Sharma] 👋
+### Hi there, I'm SujanSB- aka [Sujan Sharma] 👋
 
 ## I'm a Computer Engineer.
 - 🌱 I’m currently switching my career.
