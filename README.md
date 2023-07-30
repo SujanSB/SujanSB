@@ -25,7 +25,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="invalidsb.me" color="white" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="suzansharma.com.np" color="white" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="INVALID SB | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Sujanja | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sujan | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -38,7 +38,7 @@
  #### Your mindset is your everything !!!
 
 -----
-![Sujan's github stats](https://github-readme-stats.vercel.app/api?username=InvalidSB&show_icons=true&theme=merko)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=InvalidSB&show_icons=true&locale=en&layout=compact&theme=merko" alt="SujanOfficial" />
+![Sujan's github stats](https://github-readme-stats.vercel.app/api?username=SujanSB&show_icons=true&theme=merko)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SujanSB&show_icons=true&locale=en&layout=compact&theme=merko" alt="SujanOfficial" />
 
 <br/>
 
@@ -50,4 +50,4 @@
 
 ----
 ## Visitors Count -since 2023-1-25 :
- ![Visitor Count](https://profile-counter.glitch.me/{InvalidSB}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{SujanSB}/count.svg)
